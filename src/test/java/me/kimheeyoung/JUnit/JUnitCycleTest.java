@@ -1,3 +1,5 @@
+package me.kimheeyoung.JUnit;
+
 import org.junit.jupiter.api.*;
 
 public class JUnitCycleTest {

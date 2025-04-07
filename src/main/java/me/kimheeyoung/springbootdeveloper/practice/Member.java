@@ -1,11 +1,10 @@
-package me.kimheeyoung.springbootdeveloper;
+package me.kimheeyoung.springbootdeveloper.practice;
 
 import jakarta.persistence.*;
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import org.hibernate.sql.exec.spi.StandardEntityInstanceResolver;
 
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 @AllArgsConstructor
